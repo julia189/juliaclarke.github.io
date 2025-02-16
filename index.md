@@ -4,7 +4,7 @@
 
 ### Machine Learning Projects 
 
-[Project 1: Prediction of final taxi trip location based on 442 taxi trips simulated in the city of Porto. Applying multi output neural network and mutli output regressor to predict final latitude and longitude. Reframing problem as multiclass classification problem through clustering and predicting cluster with Random Forest regressor.](/https://github.com/julia189/ml-project-taxi-prediction)
+[Project 1: Prediction of final taxi trip location based on 442 taxi trips simulated in the city of Porto. Applying multi output neural network and mutli output regressor to predict final latitude and longitude. Reframing problem as multiclass classification problem through clustering and predicting cluster with Random Forest regressor.](https://github.com/julia189/ml-project-taxi-prediction)
 <img src="images/clustered_trips.png?raw=true"/>
 
 ---
