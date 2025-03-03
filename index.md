@@ -1,8 +1,6 @@
-### Portfolio 
 
----
 ### Machine Learning Projects 
-
+---
 #### Prediction of final taxi trip location
 
 
@@ -14,24 +12,23 @@
 
 <img src="images/clustered_trips.png?raw=true"/>
 
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+#### Survival analysis on cancer data
 
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+Blablabla 
+
+[Github Link](https://github.com/julia189/ml-project-taxi-prediction)
+
+<img src="images/clustered_trips.png?raw=true"/>
+
+#### Application of CWR (Cluster while regress) on logistics data 
 
 ---
 
 ### Other projects 
 
-- [Data Extraction from PDF with Taseract]
+#### PDF Data extraction with tasseract
 
----
-
-
-
+#### Logistic optimization 
 
 ---
 <p style="font-size:10px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
