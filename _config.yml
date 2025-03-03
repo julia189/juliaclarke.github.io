@@ -2,13 +2,13 @@ title: Julia Clarke # your name (or website title) here
 logo: "/images/20824_JH_9922-hoch.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   
-  Data Scientist with 4+ years experience in implementing ML models in production
-  with focus on Sales, After Sales and Logistic topics. I worked on projects to predict whether a warranty claim should be accepted or not and supported
-  to automatated the warranty claim processing, to apply causal ML to evalaute effect on suppliers. During these projects, I  worked with vehicle diagnostics, configuration and location data, as well as 
-  CRM, maintenance and warranty data. I have experience in working with large data sets and implementing productive ML pipelines in the AWS cloud.
-
-  My experience and skills are backed by Master's degree in TUM BWL (Technology and Management orientated Business Administration) with focus on Operations Research and Informatics, as well as
-  my certificates in Tensorflow and AWS cloud. My private projects showcase my programming skills in Python and SQL and my abilitiy to extract insights from data and apply ML algorithms. 
+  Data Scientist with 4+ years experience in implementing productive Machine learnings models 
+  optimizing business processes in After Sales, logistics and increasing sales conversions.
+  
+  I worked on projects automating warranty and repair claim processes, applied causal ML to evaluate actions taken on suppliers 
+  and optimized the time point to contact potential and existing customers by using Survival analysis. 
+  During these projects, I worked with vehicle diagnostics, configuration and location data, as well as 
+  CRM, logistics, maintenance and warranty data. I am AWS certified and gained significant experience implemeting productive ML pipelines in the AWS cloud.
 
   Currently I am working for BMW and focusing on analytical optimization of campaigns
   by implementing Machine Learning models to personalize our targeting. 
