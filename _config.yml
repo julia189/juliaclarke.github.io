@@ -1,16 +1,15 @@
 title: Julia Clarke # your name (or website title) here
 logo: "/images/20824_JH_9922-hoch.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  
-Data Scientist with 4+ years experience in implementing productive Machine learnings models 
-optimizing business processes in After Sales, logistics and increasing sales conversions,<br><br/>
-holding a Master of Science degree from Technical University of Munich.
-<br><br/>
-
-Currently I am working for BMW and focusing on analytical optimization of campaigns
-by implementing Machine Learning models to personalize our targeting. 
-<br><br>
-<a href="https://www.linkedin.com/in/juliahehl/">View My LinkedIn Profile</a> 
+  <br>
+  Data Scientist with 4+ years professional experience focusing on implementing productive Machine learnings models 
+  and conducting profound data analysis to optimize business processes in After Sales and Logistics as well as to increase sales conversions.
+  <br><br>
+  Holding a Master of Science degree from Technical University of Munich.
+  <br><br>
+  Currently focused on analytical optimization of campaigns by implementing Machine Learning models to personalize targeting. 
+  <br><br>
+  <a href="https://www.linkedin.com/in/juliahehl/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
