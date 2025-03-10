@@ -8,6 +8,9 @@
 
  Reframed problem as multiclass classification problem through clustering and predicting cluster with Random Forest regressor.
 
+ [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#)
+
+
  [Github Link](https://github.com/julia189/ml-project-taxi-prediction)
 
 <img src="images/clustered_trips.png?raw=true"/>
@@ -16,6 +19,9 @@
 
 Blablabla 
 
+ [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) 
+
+
 [Github Link](https://github.com/julia189/ml-project-taxi-prediction)
 
 <img src="images/clustered_trips.png?raw=true"/>
@@ -23,6 +29,9 @@ Blablabla
 #### Application of CWR (Cluster while regress) on logistics data 
 
 ---
+
+ [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#)
+
 
 ### Other projects 
 
