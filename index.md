@@ -26,8 +26,6 @@ Developed AI agent to help assist young (soon to be) parents in baby car using R
 
 ### Other projects 
 
-#### PDF Data extraction with tasseract
-
 #### Mixed-integer linear programming (MILP) 
 
 Master degree project to implement MILP model to optimize traffic flows in superblock layout city. Heatmap showcases traffic flow between individual blocks. Traffic flow is optimized between blocks and only remains high for blocks with centers (shopping centers, hospitals). 
