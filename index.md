@@ -7,7 +7,7 @@ Developed AI agent to help assist young (soon to be) parents in baby car using R
 
  [Github Link](https://github.com/julia189/rasa-ai-agent-challenge)
 
- [![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
+ [![](https://img.shields.io/badge/Python-white?logo=Python)](#) ![](https://img.shields.io/badge/Rasa%20AI-5a18ee?logo=rasa&logoColor=white)
 
 
 #### Prediction of final taxi trip location
@@ -22,22 +22,6 @@ Developed AI agent to help assist young (soon to be) parents in baby car using R
 
 <img src="images/clustered_trips.png?raw=true"/>
 
-#### Survival analysis on cancer data
-
-Blablabla 
-
- [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) 
-
-
-[Github Link](https://github.com/julia189/ml-project-taxi-prediction)
-
-<img src="images/clustered_trips.png?raw=true"/>
-
-#### Application of CWR (Cluster while regress) on logistics data 
-
----
-
- [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#)
 
 
 ### Other projects 
@@ -46,11 +30,14 @@ Blablabla
 
 #### Mixed-integer linear programming (MILP) 
 
-Master degree project to implement MILP model to optimize traffic flows in superblock layout city. Heatmap showcases traffic flow between superblocks. 
+Master degree project to implement MILP model to optimize traffic flows in superblock layout city. Heatmap showcases traffic flow between individual blocks. Traffic flow is optimized between blocks and only remains high for blocks with centers (shopping centers, hospitals). 
+
+ [![](https://img.shields.io/badge/Python-white?logo=Python)](#) ![](https://img.shields.io/badge/GurobiPy-white?logo=gurobi&logoColor=ec3727)
 
 [Github Link](https://github.com/julia189/superblock)
 
- [![](https://img.shields.io/badge/Python-white?logo=Python)](#) 
+<img src="images/Superblock.PNG?raw=true">
+
 
 ---
 <p style="font-size:10px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
