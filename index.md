@@ -3,7 +3,7 @@
 ---
 #### AI Agent with Rasa AI
 
-Developed AI agent to help assist young (soon to be) parents in baby car using Rasa's Calm (Conversational AI with Language Models) paradigm. Project was implemented for RASA AI challenge 2024 and is currently continously improved (Status April 2025).
+Developed AI agent to help assist young (soon to be) parents in baby car using Rasa's Calm (Conversational AI with Language Models) paradigm. Project was implemented for RASA AI challenge 2024 and recognized in the 10 notable projects. Project is currently continously improved (April 2024). 
 
  [Github Link](https://github.com/julia189/rasa-ai-agent-challenge)
 
